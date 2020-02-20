@@ -21,3 +21,7 @@ orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula e
 ##GITHub content 
 comparision with repo
 
+
+contribution 
+fork the repo
+raise pull request for review
